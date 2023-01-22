@@ -22,13 +22,6 @@ export default function About() {
                   the code more readable and easier to maintain. This
                   application is made by.
                 </p>
-                <ul className="text-left py-2">
-                  <li>kelompok 4:</li>
-                  <li>Lukman Ernandi 21120119130049</li>
-                  <li>Haickal Fattih Pratama 21120119140131</li>
-                  <li>Peggy Raihannisa Zakiyyahannas 21120119130111</li>
-                  <li>Hilmi Ahmad Dhiya`ulhaq 21120119130048</li>
-                </ul>
               </div>
             </div>
           </div>
